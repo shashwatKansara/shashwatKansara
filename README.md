@@ -29,7 +29,7 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 **Frameworks & Tools**
