@@ -9,13 +9,10 @@
 
 ### 🧭 About me
 
-- 🎓 Starting a **Bachelor of Computer Science at RMIT University** (Melbourne), majoring in **Cyber Security**, Feb 2027
+- 🎓 Starting a **Bachelor of Computer Science at RMIT University** (Melbourne), majoring in **Cyber Security**
 - 🛠️ Self-taught developer who builds and ships products end-to-end as a **solo founder**
 - 🔐 Heading toward a career in **cybersecurity**: security analyst now, security architect later
-- 🎥 Run **MindVaultJK**, an educational content channel on YouTube & Instagram
 - 🌱 Currently learning: **Python for security**, **NumPy / Matplotlib**, **Java**, and **discrete math**
-- 📍 Based in Jakarta, Indonesia
-
 ---
 
 ### 🚀 Featured projects
@@ -23,8 +20,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **🪷 Saarthi** | AI devotional companion app grounded in the Bhagavad Gita: chat, verse cards, streaks, crisis detection | React Native · Expo · FastAPI · Supabase · Groq (Llama) · RevenueCat |
-| **💸 FinStart** | Duolingo-style financial literacy web app for teens with a tiered curriculum and freemium paywall | React · Vite · Supabase · Stripe · Vercel |
-| **📰 Telegram News Bots** | Four automated bots delivering AI-summarised global news, geopolitics, markets & commodities | Python · NewsAPI · Alpha Vantage · Finnhub · Claude API |
+| **📰 S&P500 Stock Data Analysis ** | Analysed and Evaluated Stock Data of Apple (APPL) and Nvidia (NVDA) for strengthening my Python skills | Python · NewsAPI · Alpha Vantage · Finnhub · Claude API |
 | **📊 Netflix Churn Trials** | Hands-on data analysis practice on a Kaggle churn dataset | Python · NumPy · Matplotlib |
 
 ---
@@ -45,26 +41,13 @@
 
 ---
 
-### 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shashwatKansara&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatKansara&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatKansara&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ### 🤝 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mindvaultjk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@mindvaultjk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashwat-kansara-653852343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://https://www.instagram.com/shashwat_kansara//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:kansarashashwat@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Always building. Always learning. 🚀</i></p>
